@@ -1,0 +1,120 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26310100IM00017649",
+                "guven": 0.9996437430381775
+            },
+            "Beyanname Tarihi": {
+                "deger": "05/08/2026",
+                "guven": 0.9999871253967285
+            },
+            "Ödeme Koşulu": {
+                "deger": "MAL MUKABÍLİ",
+                "guven": 0.9257058501243591
+            },
+            "Konşimento": {
+                "deger": "MEDUDY765809",
+                "guven": 0.9811795353889465
+            },
+            "Fatura No": {
+                "deger": "1154280231",
+                "guven": 0.9811795353889465
+            },
+            "Eşya Kodu": {
+                "deger": "55041000 00 19",
+                "guven": 0.9999790191650391
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                    "guven": 0.9718049764633179
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                    "guven": 0.9930216073989868
+                },
+                {
+                    "deger": "Dulkadiroglu Kahramanmaras",
+                    "guven": 0.9844348430633545
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "5 KONTEYNER 102,582.80 KİLOGRAM",
+                    "guven": 0.9713827967643738
+                },
+                {
+                    "deger": "Markasi:. Numarasi:.*KONTEYNER NO EKLI LISTE",
+                    "guven": 0.9785926938056946
+                },
+                {
+                    "deger": "Ticari tnm:VISCOSE EV BRIGHT RAWWHITE",
+                    "guven": 0.9959127306938171
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "LENZING AG",
+                    "guven": 0.9996825456619263
+                },
+                {
+                    "deger": "WERKSTRABE 2, 4860 LENZING, AUSTRIA",
+                    "guven": 0.9952031970024109
+                },
+                {
+                    "deger": "LENZING AVUSTURYA 038",
+                    "guven": 0.9999018311500549
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                    "guven": 0.9647757411003113
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                    "guven": 0.9860780239105225
+                },
+                {
+                    "deger": "Dulkadiroglu Kahramanmaras 052",
+                    "guven": 0.9831172227859497
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "320",
+                "guven": 0.9999980330467224
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "ITALYA",
+                "guven": 0.9898948073387146
+            },
+            "Teslim Şekli": null,
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "EUR",
+                "guven": 0.9999741911888123
+            },
+            "Çıkış Gümrük İdaresi": {
+                "deger": "ISKENDERUN GÜMRÜK MÜDÜ",
+                "guven": 0.9779987931251526
+            },
+            "Brüt Ağırlık (kg)": {
+                "deger": "101,262.80",
+                "guven": 0.999992847442627
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "100,814.80",
+                "guven": 0.9999736547470093
+            },
+            "İstatistiki Kıymet": {
+                "deger": "212,546.18",
+                "guven": 0.9999866485595703
+            },
+            "Rejim": {
+                "deger": "40 00",
+                "guven": 0.999978244304657
+            }
+        }
+    }
+]

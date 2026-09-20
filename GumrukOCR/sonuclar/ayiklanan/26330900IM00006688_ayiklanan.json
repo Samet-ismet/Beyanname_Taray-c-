@@ -1,0 +1,113 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26330900IM00006688",
+                "guven": 0.9998098015785217
+            },
+            "Beyanname Tarihi": {
+                "deger": "03/08/2026",
+                "guven": 0.9999985694885254
+            },
+            "Ödeme Koşulu": {
+                "deger": "PESIN",
+                "guven": 0.9607468843460083
+            },
+            "Konşimento": null,
+            "Fatura No": {
+                "deger": "13-07-26",
+                "guven": 0.9989058375358582
+            },
+            "Eşya Kodu": {
+                "deger": "40103900 00 00",
+                "guven": 0.9999828338623047
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "ÖNDER GÜMRÜK MÜşAVİRLİK HİZMETLERİ LTD. ŞTİ.",
+                    "guven": 0.8847792148590088
+                },
+                {
+                    "deger": "YENÍ MH INÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                    "guven": 0.9766894578933716
+                },
+                {
+                    "deger": "33050 AKDENIZ MERSÍN",
+                    "guven": 0.9606302380561829
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "1 KAP 1.00 ADET(UNIT)",
+                    "guven": 0.9675595164299011
+                },
+                {
+                    "deger": "Ticari tnm:conveyor belt(taşima bandi) tekstil makinasi yedek aksami",
+                    "guven": 0.979897677898407
+                },
+                {
+                    "deger": "Tarife tnm:",
+                    "guven": 0.999779462814331
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "BIELLA SHRUNK PROCESS DI MICHELE ALBERTO C.S.A.S",
+                    "guven": 0.9996330142021179
+                },
+                {
+                    "deger": "VIA MARCOI 101-13854 QUAREGMACERRETO(ITALY)",
+                    "guven": 0.9993249773979187
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "KİPAŞ MENSUCAT İŞLETMELERİ A.S.",
+                    "guven": 0.9059091210365295
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                    "guven": 0.9989720582962036
+                },
+                {
+                    "deger": "DULKADIROGLU/K.MARAS 052",
+                    "guven": 0.9743695259094238
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "1",
+                "guven": 0.9998902082443237
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "ITALYA",
+                "guven": 0.9501590728759766
+            },
+            "Teslim Şekli": {
+                "deger": "EXW",
+                "guven": 0.9604393839836121
+            },
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "EUR",
+                "guven": 0.9999673366546631
+            },
+            "Çıkış Gümrük İdaresi": null,
+            "Brüt Ağırlık (kg)": {
+                "deger": "12.00",
+                "guven": 0.982542872428894
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "9.15",
+                "guven": 0.9999964237213135
+            },
+            "İstatistiki Kıymet": {
+                "deger": "2,326.11",
+                "guven": 0.9999947547912598
+            },
+            "Rejim": {
+                "deger": "40 00",
+                "guven": 0.999988317489624
+            }
+        }
+    }
+]

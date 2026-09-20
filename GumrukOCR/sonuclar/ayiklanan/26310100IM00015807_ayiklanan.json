@@ -1,0 +1,123 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26310100IM00015807",
+                "guven": 0.9998860955238342
+            },
+            "Beyanname Tarihi": {
+                "deger": "22/07/2026",
+                "guven": 0.9999970197677612
+            },
+            "Ödeme Koşulu": {
+                "deger": "MAL MUKABİLİ",
+                "guven": 0.9359233379364014
+            },
+            "Konşimento": {
+                "deger": "COEU9020919070",
+                "guven": 0.9849323034286499
+            },
+            "Fatura No": {
+                "deger": "2064039281",
+                "guven": 0.9849323034286499
+            },
+            "Eşya Kodu": {
+                "deger": "55041000 00 11",
+                "guven": 0.9999855160713196
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                    "guven": 0.9750958681106567
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                    "guven": 0.9947631359100342
+                },
+                {
+                    "deger": "Dulkadiroglu Kahramanmaraş",
+                    "guven": 0.9882670640945435
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "5 KONTEYNER 103,114.78 KILOGRAM",
+                    "guven": 0.9811751842498779
+                },
+                {
+                    "deger": "Markasi:. Numarasi:.*KONTEYNER NO EKLI LISTE",
+                    "guven": 0.9642391204833984
+                },
+                {
+                    "deger": "Ticari tnm:LYOCELL BRIGHT RAWWHITE",
+                    "guven": 0.9824981689453125
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "LENZING FIBERS GMBH",
+                    "guven": 0.9999536275863647
+                },
+                {
+                    "deger": "INDUSTRIEGELAENDE 1 7561 HEILIGENKREUZ,",
+                    "guven": 0.9997668266296387
+                },
+                {
+                    "deger": "AVUSTURYA 038",
+                    "guven": 0.9999704360961914
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                    "guven": 0.9809934496879578
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                    "guven": 0.9999232292175293
+                },
+                {
+                    "deger": "Dulkadiroglu Kahramanmaraş 052",
+                    "guven": 0.988297164440155
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "330",
+                "guven": 0.9999983906745911
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "SLOVENYA",
+                "guven": 0.9999836087226868
+            },
+            "Teslim Şekli": {
+                "deger": "CIF",
+                "guven": 0.9998541474342346
+            },
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "EUR",
+                "guven": 0.9999752044677734
+            },
+            "Çıkış Gümrük İdaresi": {
+                "deger": "İSKENDERUN GÜMRÜK MÜDÜ",
+                "guven": 0.9829431772232056
+            },
+            "Brüt Ağırlık (kg)": {
+                "deger": "100,650.40",
+                "guven": 0.9999914169311523
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "100,320.40",
+                "guven": 0.999996542930603
+            },
+            "İstatistiki Kıymet": {
+                "deger": "402,601.61",
+                "guven": 0.9999935030937195
+            },
+            "Rejim": {
+                "deger": "40 00",
+                "guven": 0.9999788999557495
+            }
+        }
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26330900IM00007391",
+                "guven": 0.999871551990509
+            },
+            "Beyanname Tarihi": {
+                "deger": "25/08/2026",
+                "guven": 0.9999983906745911
+            },
+            "Ödeme Koşulu": {
+                "deger": "PESIN",
+                "guven": 0.9536271095275879
+            },
+            "Konşimento": null,
+            "Fatura No": {
+                "deger": "SIA1006328_26",
+                "guven": 0.991637110710144
+            },
+            "Eşya Kodu": {
+                "deger": "40169300 29 00",
+                "guven": 0.9999794363975525
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "ÖNDER GÜMRÜK MÜşAVİRLİK HİZMETLERİ LTD. ŞTİ.",
+                    "guven": 0.9454774260520935
+                },
+                {
+                    "deger": "YENI MH INÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                    "guven": 0.975239098072052
+                },
+                {
+                    "deger": "33050 AKDENIZ MERSÍN",
+                    "guven": 0.9505542516708374
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "3 KAP 25.00 ADET(UNIT)",
+                    "guven": 0.9995152950286865
+                },
+                {
+                    "deger": "Ticari tnm:o-ring(halka)tekstil makinesi yedek aksami",
+                    "guven": 0.9891082048416138
+                },
+                {
+                    "deger": "Tarife tnm:",
+                    "guven": 0.9998613595962524
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "PICANOL NV",
+                    "guven": 0.9993392825126648
+                },
+                {
+                    "deger": "KAREL STEVERLYNCLAAN 15 BE 8900",
+                    "guven": 0.9996355175971985
+                },
+                {
+                    "deger": "BELÇIKA 017",
+                    "guven": 0.9588764309883118
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "KÍPAŞ MENSUCAT İŞLETMELERİ A.Ş.",
+                    "guven": 0.88601154088974
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                    "guven": 0.9984208345413208
+                },
+                {
+                    "deger": "DULKADIROGLU/K.MARAS 052",
+                    "guven": 0.9608745574951172
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "3",
+                "guven": 0.999995231628418
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "BELÇIKA",
+                "guven": 0.9416205286979675
+            },
+            "Teslim Şekli": {
+                "deger": "EXW",
+                "guven": 0.9320072531700134
+            },
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "EUR",
+                "guven": 0.9999577403068542
+            },
+            "Çıkış Gümrük İdaresi": {
+                "deger": "MERSIN GÜMRÜK MÜD.",
+                "guven": 0.9923478364944458
+            },
+            "Brüt Ağırlık (kg)": {
+                "deger": "0.22",
+                "guven": 0.9994598031044006
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "0.17",
+                "guven": 0.9999978542327881
+            },
+            "İstatistiki Kıymet": {
+                "deger": "80.88",
+                "guven": 0.9999983906745911
+            },
+            "Rejim": {
+                "deger": "40 71",
+                "guven": 0.9999840259552002
+            }
+        }
+    }
+]

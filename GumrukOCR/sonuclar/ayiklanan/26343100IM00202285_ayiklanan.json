@@ -1,0 +1,117 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26343100IM00202285",
+                "guven": 0.9996119737625122
+            },
+            "Beyanname Tarihi": {
+                "deger": "25.08.2026",
+                "guven": 0.9990566372871399
+            },
+            "Ödeme Koşulu": {
+                "deger": "MAL MUKABILI",
+                "guven": 0.9760192036628723
+            },
+            "Konşimento": null,
+            "Fatura No": null,
+            "Eşya Kodu": {
+                "deger": "53050000 99 19",
+                "guven": 0.9651294350624084
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "OKUYAN GÜM. MÜS. LTD. STI.",
+                    "guven": 0.9614667296409607
+                },
+                {
+                    "deger": "YENIBOSNA MERKEZ MAH. 29 EKIM CAD. NO: 11C IÇ KAPI",
+                    "guven": 0.9794458150863647
+                },
+                {
+                    "deger": "NO: 31 BAHÇELIEVLER / ISTANBUL",
+                    "guven": 0.9772383570671082
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "70 KAP 3500 KG Marka:ADDR",
+                    "guven": 0.9993209838867188
+                },
+                {
+                    "deger": "No:-",
+                    "guven": 0.9920020699501038
+                },
+                {
+                    "deger": "Ticari tanimi:ANANAS LIFI",
+                    "guven": 0.9785543084144592
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "RE-ROOT TEX SOLUTION UG",
+                    "guven": 0.9940296411514282
+                },
+                {
+                    "deger": "Mainstrasse 57 63897 Miltenberg Germany",
+                    "guven": 0.9876026511192322
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "KIPAS MENSUCAT ISLETMELERI A.S.",
+                    "guven": 0.9246094226837158
+                },
+                {
+                    "deger": "KARACASU KARAZIYARET MAH",
+                    "guven": 0.9904306530952454
+                },
+                {
+                    "deger": "FATIH SULTAN MEHMET CAD",
+                    "guven": 0.9937529563903809
+                },
+                {
+                    "deger": "NO:1/A DULKADIROGLU / K.MARAŞ",
+                    "guven": 0.9502784609794617
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "70",
+                "guven": 0.9999954700469971
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "BANGLADES",
+                "guven": 0.995967447757721
+            },
+            "Teslim Şekli": {
+                "deger": "CIF",
+                "guven": 0.9822382926940918
+            },
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "EUR",
+                "guven": 0.9999580383300781
+            },
+            "Çıkış Gümrük İdaresi": {
+                "deger": "ISTANBUL HAVALIMANI GÜMRUARUDARTBÉBO",
+                "guven": 0.8688700199127197
+            },
+            "Brüt Ağırlık (kg)": {
+                "deger": "3.540,00",
+                "guven": 0.992302417755127
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "3.500,00",
+                "guven": 0.9992674589157104
+            },
+            "İstatistiki Kıymet": {
+                "deger": "57.577,94",
+                "guven": 0.9977324604988098
+            },
+            "Rejim": {
+                "deger": "40 71",
+                "guven": 0.9999923706054688
+            }
+        }
+    }
+]

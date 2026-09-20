@@ -1,0 +1,121 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26330900IM00007180",
+                "guven": 0.9998630881309509
+            },
+            "Beyanname Tarihi": {
+                "deger": "18/08/2026",
+                "guven": 0.9999983906745911
+            },
+            "Ödeme Koşulu": null,
+            "Konşimento": null,
+            "Fatura No": {
+                "deger": "P1011975",
+                "guven": 0.9898135662078857
+            },
+            "Eşya Kodu": {
+                "deger": "84313900 00 00",
+                "guven": 0.9999753832817078
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "ÖNDER GÜMRÜK MÜŞAVİRLİK HİZMETLERİ LTD. STİ.",
+                    "guven": 0.9410776495933533
+                },
+                {
+                    "deger": "YENÍ MH INÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                    "guven": 0.9754819869995117
+                },
+                {
+                    "deger": "33050 AKDENIZ MERSIN",
+                    "guven": 0.9592437744140625
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "1 KAP 2.00 ADET(UNIT)",
+                    "guven": 0.9990870952606201
+                },
+                {
+                    "deger": "Ticari tnm:toothed belt tension bracket(dişil kayıs koruma parcai) tekstil makina",
+                    "guven": 0.9825168251991272
+                },
+                {
+                    "deger": "si yedek aksamı",
+                    "guven": 0.9743905663490295
+                },
+                {
+                    "deger": "Tarife tnm:",
+                    "guven": 0.9997024536132812
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "NEUENHAUSER MASCHINENBAU GMBH",
+                    "guven": 0.9993046522140503
+                },
+                {
+                    "deger": "HANS-VOSHAAR-STR.5 D-49828 NEUENHAU",
+                    "guven": 0.9976510405540466
+                },
+                {
+                    "deger": "GERMANY 004",
+                    "guven": 0.9999315738677979
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "KİPAŞ MENSUCAT İşLETMELERİ A.S.",
+                    "guven": 0.9052729606628418
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                    "guven": 0.9959879517555237
+                },
+                {
+                    "deger": "DULKADÍROGLU/K.MARAS 052",
+                    "guven": 0.9493432641029358
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "1",
+                "guven": 0.9999722242355347
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "ALMANYA",
+                "guven": 0.9999847412109375
+            },
+            "Teslim Şekli": {
+                "deger": "CPT",
+                "guven": 0.999993622303009
+            },
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "EUR",
+                "guven": 0.999962329864502
+            },
+            "Çıkış Gümrük İdaresi": {
+                "deger": "ADANA GÜMRÜK MÜDÜRLÜG",
+                "guven": 0.9971539378166199
+            },
+            "Brüt Ağırlık (kg)": {
+                "deger": "23.18",
+                "guven": 0.9999980926513672
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "15.16",
+                "guven": 0.9999982714653015
+            },
+            "İstatistiki Kıymet": {
+                "deger": "88.30",
+                "guven": 0.9999966621398926
+            },
+            "Rejim": {
+                "deger": "40 71",
+                "guven": 0.9999881982803345
+            }
+        }
+    }
+]

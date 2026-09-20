@@ -1,0 +1,155 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26310100IM00018090",
+                "guven": 0.9994211196899414
+            },
+            "Beyanname Tarihi": {
+                "deger": "12.08.2026",
+                "guven": 0.9999960064888
+            },
+            "Ödeme Koşulu": {
+                "deger": "VESAIK MUKABILI",
+                "guven": 0.9997467994689941
+            },
+            "Konşimento": {
+                "deger": "OOLU2330000880",
+                "guven": 0.9906474947929382
+            },
+            "Fatura No": {
+                "deger": "2602006905",
+                "guven": 0.999610185623169
+            },
+            "Eşya Kodu": {
+                "deger": "52010090 00 19",
+                "guven": 0.9999542236328125
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "BARSAN GLOBAL LOJISTIK A.S.",
+                    "guven": 0.9861541390419006
+                },
+                {
+                    "deger": "Merkez Mah. Nadide Sok.",
+                    "guven": 0.9922782778739929
+                },
+                {
+                    "deger": "No:1-3 Sişli",
+                    "guven": 0.9520063996315002
+                },
+                {
+                    "deger": "KAHRAMANMARAS 4. NOTERLIG NOT. /",
+                    "guven": 0.964199423789978
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "3 KONTEYNER 60084 KGM Markasi: . - Numarasi:.",
+                    "guven": 0.9635802507400513
+                },
+                {
+                    "deger": "K.NO:CSGU6423865,CSNU8930560,TIIU5183608",
+                    "guven": 0.9965687990188599
+                },
+                {
+                    "deger": "Ticari Tanimi: ** % 100PAMUK 2026/D1-03811",
+                    "guven": 0.9725508093833923
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "BUNGE NETHERLANDS AGRI B.V.",
+                    "guven": 0.9845165610313416
+                },
+                {
+                    "deger": "BLAAK 31,3011 GA ROTTERDAM NETHERLANDS",
+                    "guven": 0.9889645576477051
+                },
+                {
+                    "deger": "HOLLANDA",
+                    "guven": 0.9999434947967529
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "KIPAS MENSUCAT ISLETMELERI A.S.",
+                    "guven": 0.9705032110214233
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mh. Fatih Sultan Mehmet Cd. No:1/A",
+                    "guven": 0.999898374080658
+                },
+                {
+                    "deger": "Dulkadiroğlu - Kahramanmaraş / TÜRKIYE",
+                    "guven": 0.9899961352348328
+                },
+                {
+                    "deger": "KAHRAMANMARAS 052",
+                    "guven": 0.999102771282196
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "270",
+                "guven": 0.9999911189079285
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "Birleşik Devletler",
+                "guven": 0.963531494140625
+            },
+            "Teslim Şekli": {
+                "deger": "CIF",
+                "guven": 0.9976813793182373
+            },
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "USD",
+                "guven": 0.9994739890098572
+            },
+            "Çıkış Gümrük İdaresi": {
+                "deger": "ISKENDERUN GÜM.MÜD.",
+                "guven": 0.9729456901550293
+            },
+            "Brüt Ağırlık (kg)": {
+                "deger": "60,413.00",
+                "guven": 0.9999027252197266
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "60,084.00",
+                "guven": 0.9999483823776245
+            },
+            "İstatistiki Kıymet": {
+                "deger": "104,221.41",
+                "guven": 0.9997151494026184
+            },
+            "Rejim": {
+                "deger": "51 00",
+                "guven": 0.9702278971672058
+            }
+        }
+    },
+    {
+        "sayfa": 2,
+        "alanlar": {
+            "Beyanname No": null,
+            "Beyanname Tarihi": null,
+            "Ödeme Koşulu": null,
+            "Konşimento": null,
+            "Fatura No": null,
+            "Eşya Kodu": null,
+            "Beyan Sahibi / Temsilcisi": null,
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": null,
+            "Gönderici / İhracatçı": null,
+            "Alıcı": null,
+            "Kap Adedi": null,
+            "Çıkış / İhracat Ülkesi": null,
+            "Teslim Şekli": null,
+            "Döviz ve Toplam Fatura Bedeli": null,
+            "Çıkış Gümrük İdaresi": null,
+            "Brüt Ağırlık (kg)": null,
+            "Net Ağırlık (kg)": null,
+            "İstatistiki Kıymet": null,
+            "Rejim": null
+        }
+    }
+]

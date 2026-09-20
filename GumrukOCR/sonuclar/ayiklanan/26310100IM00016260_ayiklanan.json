@@ -1,0 +1,127 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26310100IM00016260",
+                "guven": 0.9999306797981262
+            },
+            "Beyanname Tarihi": {
+                "deger": "29/07/2026",
+                "guven": 0.9999971389770508
+            },
+            "Ödeme Koşulu": {
+                "deger": "VESAİK MUKABİLİ",
+                "guven": 0.9190741777420044
+            },
+            "Konşimento": {
+                "deger": "ONEYRICGM8801500",
+                "guven": 0.9651209115982056
+            },
+            "Fatura No": {
+                "deger": "5E71846",
+                "guven": 0.9651209115982056
+            },
+            "Eşya Kodu": {
+                "deger": "52010090 00 19",
+                "guven": 0.9999921321868896
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                    "guven": 0.9750958681106567
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                    "guven": 0.9947631359100342
+                },
+                {
+                    "deger": "Dulkadiroglu Kahramanmaraş",
+                    "guven": 0.9882670640945435
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "8 KONTEYNER 158,924.60 KILOGRAM",
+                    "guven": 0.9834563732147217
+                },
+                {
+                    "deger": "Markasi:. Numarasi:.*KONTEYNER NO EKLI LISTE",
+                    "guven": 0.9786632061004639
+                },
+                {
+                    "deger": "Ticari tnm:PAMUK",
+                    "guven": 0.9999520778656006
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "STAPLE COTTON COOPERATIVE ASSOCIATION",
+                    "guven": 0.9927366375923157
+                },
+                {
+                    "deger": "214 WEST MARKET ST. P.O BOX 547 GREENWOOD, MS 38935",
+                    "guven": 0.9991641044616699
+                },
+                {
+                    "deger": "-0547",
+                    "guven": 0.9999942779541016
+                },
+                {
+                    "deger": "U.S.A 400",
+                    "guven": 0.9999125599861145
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                    "guven": 0.9809934496879578
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                    "guven": 0.9999140501022339
+                },
+                {
+                    "deger": "Dulkadiroglu Kahramanmaraş 052",
+                    "guven": 0.9872176051139832
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "704",
+                "guven": 0.9999992251396179
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "BÍRLESİK DEVLETLER",
+                "guven": 0.9538361430168152
+            },
+            "Teslim Şekli": {
+                "deger": "CIF",
+                "guven": 0.9998541474342346
+            },
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "USD",
+                "guven": 0.9999926686286926
+            },
+            "Çıkış Gümrük İdaresi": {
+                "deger": "İSKENDERUN GÜMRÜK MÜDÜ",
+                "guven": 0.9829431772232056
+            },
+            "Brüt Ağırlık (kg)": {
+                "deger": "159,713.50",
+                "guven": 0.9999885559082031
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "158,924.60",
+                "guven": 0.9999970197677612
+            },
+            "İstatistiki Kıymet": {
+                "deger": "273,354.77",
+                "guven": 0.9999842643737793
+            },
+            "Rejim": {
+                "deger": "40 00",
+                "guven": 0.9999788999557495
+            }
+        }
+    }
+]

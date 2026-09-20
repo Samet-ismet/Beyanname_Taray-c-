@@ -1,0 +1,1483 @@
+{
+    "toplam_pdf": 11,
+    "basarili": 11,
+    "hatali": 0,
+    "sonuclar": [
+        {
+            "dosya": "26330900IM00007394.pdf",
+            "beyanname_no": "26330900IM00007394",
+            "yeni_taban_adi": "26330900IM00007394",
+            "arsiv_dosyasi": "26330900IM00007394.pdf",
+            "ocr_dosyasi": "26330900IM00007394_ocr.json",
+            "ayiklanan_dosyasi": "26330900IM00007394_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26330900IM00007394",
+                            "guven": 0.9995970129966736
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "25/08/2026",
+                            "guven": 0.9999979734420776
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "PESIN",
+                            "guven": 0.9386932253837585
+                        },
+                        "Konşimento": null,
+                        "Fatura No": {
+                            "deger": "50225-K13052MA7447",
+                            "guven": 0.9974324107170105
+                        },
+                        "Eşya Kodu": {
+                            "deger": "69022099 90 19",
+                            "guven": 0.9999851584434509
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "ÖNDER GÜMRÜK MÜŞAVİRLİK HİZMETLERİ LTD. STİ.",
+                                "guven": 0.9279810190200806
+                            },
+                            {
+                                "deger": "YENI MH INÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                                "guven": 0.9690455198287964
+                            },
+                            {
+                                "deger": "33050 AKDENIZ MERSIN",
+                                "guven": 0.96319979429245
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "1 KAP 192.00 ADET(UNIT)",
+                                "guven": 0.9988592267036438
+                            },
+                            {
+                                "deger": "Ticari tnm:ramp body(bek gaza yakma taşi)tekstil makinesi yedek aksamı",
+                                "guven": 0.9723439812660217
+                            },
+                            {
+                                "deger": "Tarife tnm:",
+                                "guven": 0.9992780685424805
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "OSTHOFF-SENGE GMBH&CO.KG",
+                                "guven": 0.9811556935310364
+                            },
+                            {
+                                "deger": "POSTFACH 110465 D42304 WUPPERTAL",
+                                "guven": 0.9995174407958984
+                            },
+                            {
+                                "deger": "ESSENER STR.62 004",
+                                "guven": 0.9823594689369202
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "KİPAŞ MENSUCAT İŞLETMELERİ A.S.",
+                                "guven": 0.8882522583007812
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                                "guven": 0.9957563877105713
+                            },
+                            {
+                                "deger": "DULKADIROGLU/K.MARAS 052",
+                                "guven": 0.9528000950813293
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "1",
+                            "guven": 0.9999740123748779
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "ALMANYA",
+                            "guven": 0.9999824166297913
+                        },
+                        "Teslim Şekli": {
+                            "deger": "EXW",
+                            "guven": 0.9997951984405518
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "EUR",
+                            "guven": 0.999967098236084
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "ADANA GÜMRÜK MÜDÜRLÜG",
+                            "guven": 0.9992698431015015
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "171.98",
+                            "guven": 0.999512255191803
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "161.17",
+                            "guven": 0.9999887943267822
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "14,991.48",
+                            "guven": 0.9999656677246094
+                        },
+                        "Rejim": {
+                            "deger": "40 71",
+                            "guven": 0.9999944567680359
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "26330900IM00007391.pdf",
+            "beyanname_no": "26330900IM00007391",
+            "yeni_taban_adi": "26330900IM00007391",
+            "arsiv_dosyasi": "26330900IM00007391.pdf",
+            "ocr_dosyasi": "26330900IM00007391_ocr.json",
+            "ayiklanan_dosyasi": "26330900IM00007391_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26330900IM00007391",
+                            "guven": 0.999871551990509
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "25/08/2026",
+                            "guven": 0.9999983906745911
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "PESIN",
+                            "guven": 0.9536271095275879
+                        },
+                        "Konşimento": null,
+                        "Fatura No": {
+                            "deger": "SIA1006328_26",
+                            "guven": 0.991637110710144
+                        },
+                        "Eşya Kodu": {
+                            "deger": "40169300 29 00",
+                            "guven": 0.9999794363975525
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "ÖNDER GÜMRÜK MÜşAVİRLİK HİZMETLERİ LTD. ŞTİ.",
+                                "guven": 0.9454774260520935
+                            },
+                            {
+                                "deger": "YENI MH INÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                                "guven": 0.975239098072052
+                            },
+                            {
+                                "deger": "33050 AKDENIZ MERSÍN",
+                                "guven": 0.9505542516708374
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "3 KAP 25.00 ADET(UNIT)",
+                                "guven": 0.9995152950286865
+                            },
+                            {
+                                "deger": "Ticari tnm:o-ring(halka)tekstil makinesi yedek aksami",
+                                "guven": 0.9891082048416138
+                            },
+                            {
+                                "deger": "Tarife tnm:",
+                                "guven": 0.9998613595962524
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "PICANOL NV",
+                                "guven": 0.9993392825126648
+                            },
+                            {
+                                "deger": "KAREL STEVERLYNCLAAN 15 BE 8900",
+                                "guven": 0.9996355175971985
+                            },
+                            {
+                                "deger": "BELÇIKA 017",
+                                "guven": 0.9588764309883118
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "KÍPAŞ MENSUCAT İŞLETMELERİ A.Ş.",
+                                "guven": 0.88601154088974
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                                "guven": 0.9984208345413208
+                            },
+                            {
+                                "deger": "DULKADIROGLU/K.MARAS 052",
+                                "guven": 0.9608745574951172
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "3",
+                            "guven": 0.999995231628418
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "BELÇIKA",
+                            "guven": 0.9416205286979675
+                        },
+                        "Teslim Şekli": {
+                            "deger": "EXW",
+                            "guven": 0.9320072531700134
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "EUR",
+                            "guven": 0.9999577403068542
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "MERSIN GÜMRÜK MÜD.",
+                            "guven": 0.9923478364944458
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "0.22",
+                            "guven": 0.9994598031044006
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "0.17",
+                            "guven": 0.9999978542327881
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "80.88",
+                            "guven": 0.9999983906745911
+                        },
+                        "Rejim": {
+                            "deger": "40 71",
+                            "guven": 0.9999840259552002
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "26330900IM00007180.pdf",
+            "beyanname_no": "26330900IM00007180",
+            "yeni_taban_adi": "26330900IM00007180",
+            "arsiv_dosyasi": "26330900IM00007180.pdf",
+            "ocr_dosyasi": "26330900IM00007180_ocr.json",
+            "ayiklanan_dosyasi": "26330900IM00007180_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26330900IM00007180",
+                            "guven": 0.9998630881309509
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "18/08/2026",
+                            "guven": 0.9999983906745911
+                        },
+                        "Ödeme Koşulu": null,
+                        "Konşimento": null,
+                        "Fatura No": {
+                            "deger": "P1011975",
+                            "guven": 0.9898135662078857
+                        },
+                        "Eşya Kodu": {
+                            "deger": "84313900 00 00",
+                            "guven": 0.9999753832817078
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "ÖNDER GÜMRÜK MÜŞAVİRLİK HİZMETLERİ LTD. STİ.",
+                                "guven": 0.9410776495933533
+                            },
+                            {
+                                "deger": "YENÍ MH INÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                                "guven": 0.9754819869995117
+                            },
+                            {
+                                "deger": "33050 AKDENIZ MERSIN",
+                                "guven": 0.9592437744140625
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "1 KAP 2.00 ADET(UNIT)",
+                                "guven": 0.9990870952606201
+                            },
+                            {
+                                "deger": "Ticari tnm:toothed belt tension bracket(dişil kayıs koruma parcai) tekstil makina",
+                                "guven": 0.9825168251991272
+                            },
+                            {
+                                "deger": "si yedek aksamı",
+                                "guven": 0.9743905663490295
+                            },
+                            {
+                                "deger": "Tarife tnm:",
+                                "guven": 0.9997024536132812
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "NEUENHAUSER MASCHINENBAU GMBH",
+                                "guven": 0.9993046522140503
+                            },
+                            {
+                                "deger": "HANS-VOSHAAR-STR.5 D-49828 NEUENHAU",
+                                "guven": 0.9976510405540466
+                            },
+                            {
+                                "deger": "GERMANY 004",
+                                "guven": 0.9999315738677979
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "KİPAŞ MENSUCAT İşLETMELERİ A.S.",
+                                "guven": 0.9052729606628418
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                                "guven": 0.9959879517555237
+                            },
+                            {
+                                "deger": "DULKADÍROGLU/K.MARAS 052",
+                                "guven": 0.9493432641029358
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "1",
+                            "guven": 0.9999722242355347
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "ALMANYA",
+                            "guven": 0.9999847412109375
+                        },
+                        "Teslim Şekli": {
+                            "deger": "CPT",
+                            "guven": 0.999993622303009
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "EUR",
+                            "guven": 0.999962329864502
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "ADANA GÜMRÜK MÜDÜRLÜG",
+                            "guven": 0.9971539378166199
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "23.18",
+                            "guven": 0.9999980926513672
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "15.16",
+                            "guven": 0.9999982714653015
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "88.30",
+                            "guven": 0.9999966621398926
+                        },
+                        "Rejim": {
+                            "deger": "40 71",
+                            "guven": 0.9999881982803345
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "26330900IM00006688.pdf",
+            "beyanname_no": "26330900IM00006688",
+            "yeni_taban_adi": "26330900IM00006688",
+            "arsiv_dosyasi": "26330900IM00006688.pdf",
+            "ocr_dosyasi": "26330900IM00006688_ocr.json",
+            "ayiklanan_dosyasi": "26330900IM00006688_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26330900IM00006688",
+                            "guven": 0.9998098015785217
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "03/08/2026",
+                            "guven": 0.9999985694885254
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "PESIN",
+                            "guven": 0.9607468843460083
+                        },
+                        "Konşimento": null,
+                        "Fatura No": {
+                            "deger": "13-07-26",
+                            "guven": 0.9989058375358582
+                        },
+                        "Eşya Kodu": {
+                            "deger": "40103900 00 00",
+                            "guven": 0.9999828338623047
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "ÖNDER GÜMRÜK MÜşAVİRLİK HİZMETLERİ LTD. ŞTİ.",
+                                "guven": 0.8847792148590088
+                            },
+                            {
+                                "deger": "YENÍ MH INÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                                "guven": 0.9766894578933716
+                            },
+                            {
+                                "deger": "33050 AKDENIZ MERSÍN",
+                                "guven": 0.9606302380561829
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "1 KAP 1.00 ADET(UNIT)",
+                                "guven": 0.9675595164299011
+                            },
+                            {
+                                "deger": "Ticari tnm:conveyor belt(taşima bandi) tekstil makinasi yedek aksami",
+                                "guven": 0.979897677898407
+                            },
+                            {
+                                "deger": "Tarife tnm:",
+                                "guven": 0.999779462814331
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "BIELLA SHRUNK PROCESS DI MICHELE ALBERTO C.S.A.S",
+                                "guven": 0.9996330142021179
+                            },
+                            {
+                                "deger": "VIA MARCOI 101-13854 QUAREGMACERRETO(ITALY)",
+                                "guven": 0.9993249773979187
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "KİPAŞ MENSUCAT İŞLETMELERİ A.S.",
+                                "guven": 0.9059091210365295
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                                "guven": 0.9989720582962036
+                            },
+                            {
+                                "deger": "DULKADIROGLU/K.MARAS 052",
+                                "guven": 0.9743695259094238
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "1",
+                            "guven": 0.9998902082443237
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "ITALYA",
+                            "guven": 0.9501590728759766
+                        },
+                        "Teslim Şekli": {
+                            "deger": "EXW",
+                            "guven": 0.9604393839836121
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "EUR",
+                            "guven": 0.9999673366546631
+                        },
+                        "Çıkış Gümrük İdaresi": null,
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "12.00",
+                            "guven": 0.982542872428894
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "9.15",
+                            "guven": 0.9999964237213135
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "2,326.11",
+                            "guven": 0.9999947547912598
+                        },
+                        "Rejim": {
+                            "deger": "40 00",
+                            "guven": 0.999988317489624
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "26310100IM00017649.pdf",
+            "beyanname_no": "26310100IM00017649",
+            "yeni_taban_adi": "26310100IM00017649",
+            "arsiv_dosyasi": "26310100IM00017649.pdf",
+            "ocr_dosyasi": "26310100IM00017649_ocr.json",
+            "ayiklanan_dosyasi": "26310100IM00017649_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26310100IM00017649",
+                            "guven": 0.9996437430381775
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "05/08/2026",
+                            "guven": 0.9999871253967285
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "MAL MUKABÍLİ",
+                            "guven": 0.9257058501243591
+                        },
+                        "Konşimento": {
+                            "deger": "MEDUDY765809",
+                            "guven": 0.9811795353889465
+                        },
+                        "Fatura No": {
+                            "deger": "1154280231",
+                            "guven": 0.9811795353889465
+                        },
+                        "Eşya Kodu": {
+                            "deger": "55041000 00 19",
+                            "guven": 0.9999790191650391
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                                "guven": 0.9718049764633179
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                                "guven": 0.9930216073989868
+                            },
+                            {
+                                "deger": "Dulkadiroglu Kahramanmaras",
+                                "guven": 0.9844348430633545
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "5 KONTEYNER 102,582.80 KİLOGRAM",
+                                "guven": 0.9713827967643738
+                            },
+                            {
+                                "deger": "Markasi:. Numarasi:.*KONTEYNER NO EKLI LISTE",
+                                "guven": 0.9785926938056946
+                            },
+                            {
+                                "deger": "Ticari tnm:VISCOSE EV BRIGHT RAWWHITE",
+                                "guven": 0.9959127306938171
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "LENZING AG",
+                                "guven": 0.9996825456619263
+                            },
+                            {
+                                "deger": "WERKSTRABE 2, 4860 LENZING, AUSTRIA",
+                                "guven": 0.9952031970024109
+                            },
+                            {
+                                "deger": "LENZING AVUSTURYA 038",
+                                "guven": 0.9999018311500549
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                                "guven": 0.9647757411003113
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                                "guven": 0.9860780239105225
+                            },
+                            {
+                                "deger": "Dulkadiroglu Kahramanmaras 052",
+                                "guven": 0.9831172227859497
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "320",
+                            "guven": 0.9999980330467224
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "ITALYA",
+                            "guven": 0.9898948073387146
+                        },
+                        "Teslim Şekli": null,
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "EUR",
+                            "guven": 0.9999741911888123
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "ISKENDERUN GÜMRÜK MÜDÜ",
+                            "guven": 0.9779987931251526
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "101,262.80",
+                            "guven": 0.999992847442627
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "100,814.80",
+                            "guven": 0.9999736547470093
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "212,546.18",
+                            "guven": 0.9999866485595703
+                        },
+                        "Rejim": {
+                            "deger": "40 00",
+                            "guven": 0.999978244304657
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "26343100IM00202285.pdf",
+            "beyanname_no": "26343100IM00202285",
+            "yeni_taban_adi": "26343100IM00202285",
+            "arsiv_dosyasi": "26343100IM00202285.pdf",
+            "ocr_dosyasi": "26343100IM00202285_ocr.json",
+            "ayiklanan_dosyasi": "26343100IM00202285_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26343100IM00202285",
+                            "guven": 0.9996119737625122
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "25.08.2026",
+                            "guven": 0.9990566372871399
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "MAL MUKABILI",
+                            "guven": 0.9760192036628723
+                        },
+                        "Konşimento": null,
+                        "Fatura No": null,
+                        "Eşya Kodu": {
+                            "deger": "53050000 99 19",
+                            "guven": 0.9651294350624084
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "OKUYAN GÜM. MÜS. LTD. STI.",
+                                "guven": 0.9614667296409607
+                            },
+                            {
+                                "deger": "YENIBOSNA MERKEZ MAH. 29 EKIM CAD. NO: 11C IÇ KAPI",
+                                "guven": 0.9794458150863647
+                            },
+                            {
+                                "deger": "NO: 31 BAHÇELIEVLER / ISTANBUL",
+                                "guven": 0.9772383570671082
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "70 KAP 3500 KG Marka:ADDR",
+                                "guven": 0.9993209838867188
+                            },
+                            {
+                                "deger": "No:-",
+                                "guven": 0.9920020699501038
+                            },
+                            {
+                                "deger": "Ticari tanimi:ANANAS LIFI",
+                                "guven": 0.9785543084144592
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "RE-ROOT TEX SOLUTION UG",
+                                "guven": 0.9940296411514282
+                            },
+                            {
+                                "deger": "Mainstrasse 57 63897 Miltenberg Germany",
+                                "guven": 0.9876026511192322
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "KIPAS MENSUCAT ISLETMELERI A.S.",
+                                "guven": 0.9246094226837158
+                            },
+                            {
+                                "deger": "KARACASU KARAZIYARET MAH",
+                                "guven": 0.9904306530952454
+                            },
+                            {
+                                "deger": "FATIH SULTAN MEHMET CAD",
+                                "guven": 0.9937529563903809
+                            },
+                            {
+                                "deger": "NO:1/A DULKADIROGLU / K.MARAŞ",
+                                "guven": 0.9502784609794617
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "70",
+                            "guven": 0.9999954700469971
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "BANGLADES",
+                            "guven": 0.995967447757721
+                        },
+                        "Teslim Şekli": {
+                            "deger": "CIF",
+                            "guven": 0.9822382926940918
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "EUR",
+                            "guven": 0.9999580383300781
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "ISTANBUL HAVALIMANI GÜMRUARUDARTBÉBO",
+                            "guven": 0.8688700199127197
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "3.540,00",
+                            "guven": 0.992302417755127
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "3.500,00",
+                            "guven": 0.9992674589157104
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "57.577,94",
+                            "guven": 0.9977324604988098
+                        },
+                        "Rejim": {
+                            "deger": "40 71",
+                            "guven": 0.9999923706054688
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "26310100IM00018090_2.pdf",
+            "beyanname_no": "26310100IM00018090",
+            "yeni_taban_adi": "26310100IM00018090",
+            "arsiv_dosyasi": "26310100IM00018090.pdf",
+            "ocr_dosyasi": "26310100IM00018090_ocr.json",
+            "ayiklanan_dosyasi": "26310100IM00018090_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26310100IM00018090",
+                            "guven": 0.9994211196899414
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "12.08.2026",
+                            "guven": 0.9999960064888
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "VESAIK MUKABILI",
+                            "guven": 0.9997467994689941
+                        },
+                        "Konşimento": {
+                            "deger": "OOLU2330000880",
+                            "guven": 0.9906474947929382
+                        },
+                        "Fatura No": {
+                            "deger": "2602006905",
+                            "guven": 0.999610185623169
+                        },
+                        "Eşya Kodu": {
+                            "deger": "52010090 00 19",
+                            "guven": 0.9999542236328125
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "BARSAN GLOBAL LOJISTIK A.S.",
+                                "guven": 0.9861541390419006
+                            },
+                            {
+                                "deger": "Merkez Mah. Nadide Sok.",
+                                "guven": 0.9922782778739929
+                            },
+                            {
+                                "deger": "No:1-3 Sişli",
+                                "guven": 0.9520063996315002
+                            },
+                            {
+                                "deger": "KAHRAMANMARAS 4. NOTERLIG NOT. /",
+                                "guven": 0.964199423789978
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "3 KONTEYNER 60084 KGM Markasi: . - Numarasi:.",
+                                "guven": 0.9635802507400513
+                            },
+                            {
+                                "deger": "K.NO:CSGU6423865,CSNU8930560,TIIU5183608",
+                                "guven": 0.9965687990188599
+                            },
+                            {
+                                "deger": "Ticari Tanimi: ** % 100PAMUK 2026/D1-03811",
+                                "guven": 0.9725508093833923
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "BUNGE NETHERLANDS AGRI B.V.",
+                                "guven": 0.9845165610313416
+                            },
+                            {
+                                "deger": "BLAAK 31,3011 GA ROTTERDAM NETHERLANDS",
+                                "guven": 0.9889645576477051
+                            },
+                            {
+                                "deger": "HOLLANDA",
+                                "guven": 0.9999434947967529
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "KIPAS MENSUCAT ISLETMELERI A.S.",
+                                "guven": 0.9705032110214233
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mh. Fatih Sultan Mehmet Cd. No:1/A",
+                                "guven": 0.999898374080658
+                            },
+                            {
+                                "deger": "Dulkadiroğlu - Kahramanmaraş / TÜRKIYE",
+                                "guven": 0.9899961352348328
+                            },
+                            {
+                                "deger": "KAHRAMANMARAS 052",
+                                "guven": 0.999102771282196
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "270",
+                            "guven": 0.9999911189079285
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "Birleşik Devletler",
+                            "guven": 0.963531494140625
+                        },
+                        "Teslim Şekli": {
+                            "deger": "CIF",
+                            "guven": 0.9976813793182373
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "USD",
+                            "guven": 0.9994739890098572
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "ISKENDERUN GÜM.MÜD.",
+                            "guven": 0.9729456901550293
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "60,413.00",
+                            "guven": 0.9999027252197266
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "60,084.00",
+                            "guven": 0.9999483823776245
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "104,221.41",
+                            "guven": 0.9997151494026184
+                        },
+                        "Rejim": {
+                            "deger": "51 00",
+                            "guven": 0.9702278971672058
+                        }
+                    }
+                },
+                {
+                    "sayfa": 2,
+                    "alanlar": {
+                        "Beyanname No": null,
+                        "Beyanname Tarihi": null,
+                        "Ödeme Koşulu": null,
+                        "Konşimento": null,
+                        "Fatura No": null,
+                        "Eşya Kodu": null,
+                        "Beyan Sahibi / Temsilcisi": null,
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": null,
+                        "Gönderici / İhracatçı": null,
+                        "Alıcı": null,
+                        "Kap Adedi": null,
+                        "Çıkış / İhracat Ülkesi": null,
+                        "Teslim Şekli": null,
+                        "Döviz ve Toplam Fatura Bedeli": null,
+                        "Çıkış Gümrük İdaresi": null,
+                        "Brüt Ağırlık (kg)": null,
+                        "Net Ağırlık (kg)": null,
+                        "İstatistiki Kıymet": null,
+                        "Rejim": null
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "(3).pdf",
+            "beyanname_no": "26440200IM00001858",
+            "yeni_taban_adi": "26440200IM00001858",
+            "arsiv_dosyasi": "26440200IM00001858.pdf",
+            "ocr_dosyasi": "26440200IM00001858_ocr.json",
+            "ayiklanan_dosyasi": "26440200IM00001858_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26440200IM00001858",
+                            "guven": 0.9998602271080017
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "11/08/2026",
+                            "guven": 0.9999982118606567
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "MAL MUKABİLİ",
+                            "guven": 0.9152620434761047
+                        },
+                        "Konşimento": null,
+                        "Fatura No": {
+                            "deger": "7624573690",
+                            "guven": 0.9960843324661255
+                        },
+                        "Eşya Kodu": {
+                            "deger": "55031100 00 00",
+                            "guven": 0.9999887347221375
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "ÖNDER GÜMRÜK MÜŞAVİRLİK HİZMETLERİ LTD. STİ.",
+                                "guven": 0.9373428225517273
+                            },
+                            {
+                                "deger": "YENÍ MH İNÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                                "guven": 0.9591701030731201
+                            },
+                            {
+                                "deger": "33050 AKDENIZ MERSIN",
+                                "guven": 0.9371968507766724
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "44 KAP 10,129.50 KILOGRAM",
+                                "guven": 0.9903696179389954
+                            },
+                            {
+                                "deger": "Ticari tnm:sentetik elyaf (aramidlerden) - nomex brand staple",
+                                "guven": 0.9985008239746094
+                            },
+                            {
+                                "deger": "Tarife tnm:",
+                                "guven": 0.9998461008071899
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "ARROW SWITZERLAND SARL",
+                                "guven": 0.9999397397041321
+                            },
+                            {
+                                "deger": "154 ROUTE DU NANT-DAVRIL 1217DUPONT",
+                                "guven": 0.9764026999473572
+                            },
+                            {
+                                "deger": "SWITZERLAND 039",
+                                "guven": 0.9999483823776245
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "KİPAŞ MENSUCAT İŞLETMELERİ A.Ş.",
+                                "guven": 0.8983889222145081
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                                "guven": 0.9952423572540283
+                            },
+                            {
+                                "deger": "DULKADIROGLU/K.MARAS 052",
+                                "guven": 0.9551112055778503
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "44",
+                            "guven": 0.9999978542327881
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "BELÇIKA",
+                            "guven": 0.965848445892334
+                        },
+                        "Teslim Şekli": {
+                            "deger": "CPT",
+                            "guven": 0.9999961256980896
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "USD",
+                            "guven": 0.9999878406524658
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "KAPIKULE GÜMRÜK MÜDÜRLÜ.",
+                            "guven": 0.9743985533714294
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "10,627.10",
+                            "guven": 0.9832756519317627
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "10,129.50",
+                            "guven": 0.9999840259552002
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "202,590.00",
+                            "guven": 0.9897651672363281
+                        },
+                        "Rejim": {
+                            "deger": "40 00",
+                            "guven": 0.9999938607215881
+                        }
+                    }
+                },
+                {
+                    "sayfa": 2,
+                    "alanlar": {
+                        "Beyanname No": null,
+                        "Beyanname Tarihi": null,
+                        "Ödeme Koşulu": null,
+                        "Konşimento": null,
+                        "Fatura No": null,
+                        "Eşya Kodu": null,
+                        "Beyan Sahibi / Temsilcisi": null,
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": null,
+                        "Gönderici / İhracatçı": null,
+                        "Alıcı": null,
+                        "Kap Adedi": null,
+                        "Çıkış / İhracat Ülkesi": null,
+                        "Teslim Şekli": null,
+                        "Döviz ve Toplam Fatura Bedeli": null,
+                        "Çıkış Gümrük İdaresi": null,
+                        "Brüt Ağırlık (kg)": null,
+                        "Net Ağırlık (kg)": null,
+                        "İstatistiki Kıymet": null,
+                        "Rejim": null
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "(4).pdf",
+            "beyanname_no": "26310100IM00014508",
+            "yeni_taban_adi": "26310100IM00014508",
+            "arsiv_dosyasi": "26310100IM00014508.pdf",
+            "ocr_dosyasi": "26310100IM00014508_ocr.json",
+            "ayiklanan_dosyasi": "26310100IM00014508_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26310100IM00014508",
+                            "guven": 0.9999374747276306
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "08/07/2026",
+                            "guven": 0.9999973177909851
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "VESAÍK MUKABİLİ",
+                            "guven": 0.910077691078186
+                        },
+                        "Konşimento": {
+                            "deger": "NAM8491689",
+                            "guven": 0.9833129644393921
+                        },
+                        "Fatura No": {
+                            "deger": "5E71734",
+                            "guven": 0.9833129644393921
+                        },
+                        "Eşya Kodu": {
+                            "deger": "52010090 00 19",
+                            "guven": 0.9999921321868896
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                                "guven": 0.9734612107276917
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                                "guven": 0.9946585297584534
+                            },
+                            {
+                                "deger": "Dulkadiroglu Kahramanmaras",
+                                "guven": 0.9810458421707153
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "15 KONTEYNER 295,723.60 KILOGRAM",
+                                "guven": 0.9752000570297241
+                            },
+                            {
+                                "deger": "Markasi:. Numarasi:.*KONTEYNER NO EKLI LISTE",
+                                "guven": 0.9770742654800415
+                            },
+                            {
+                                "deger": "Ticari tnm:PAMUK",
+                                "guven": 0.9999233484268188
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "STAPLE COTTON COOPERATIVE ASSOCIATION",
+                                "guven": 0.9911251664161682
+                            },
+                            {
+                                "deger": "214 WEST MARKET ST. P.O BOX 547 GREENWOOD, MS 38935",
+                                "guven": 0.9992381930351257
+                            },
+                            {
+                                "deger": "-0547",
+                                "guven": 0.9999942779541016
+                            },
+                            {
+                                "deger": "U.S.A 400",
+                                "guven": 0.9999125599861145
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                                "guven": 0.9806389212608337
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                                "guven": 0.9999232292175293
+                            },
+                            {
+                                "deger": "Dulkadiroglu Kahramanmaraş 052",
+                                "guven": 0.9894315004348755
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "1317",
+                            "guven": 0.9999985098838806
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "BÍRLESİK DEVLETLER",
+                            "guven": 0.9538014531135559
+                        },
+                        "Teslim Şekli": {
+                            "deger": "CIF",
+                            "guven": 0.9998541474342346
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "USD",
+                            "guven": 0.9999926686286926
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "İSKENDERUN GÜMRÜK MÜDÜ",
+                            "guven": 0.9834384322166443
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "297,572.60",
+                            "guven": 0.9999936819076538
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "295,723.60",
+                            "guven": 0.9999969601631165
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "517,519.50",
+                            "guven": 0.9999950528144836
+                        },
+                        "Rejim": {
+                            "deger": "40 00",
+                            "guven": 0.9999788999557495
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "(8).pdf",
+            "beyanname_no": "26310100IM00016260",
+            "yeni_taban_adi": "26310100IM00016260",
+            "arsiv_dosyasi": "26310100IM00016260.pdf",
+            "ocr_dosyasi": "26310100IM00016260_ocr.json",
+            "ayiklanan_dosyasi": "26310100IM00016260_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26310100IM00016260",
+                            "guven": 0.9999306797981262
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "29/07/2026",
+                            "guven": 0.9999971389770508
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "VESAİK MUKABİLİ",
+                            "guven": 0.9190741777420044
+                        },
+                        "Konşimento": {
+                            "deger": "ONEYRICGM8801500",
+                            "guven": 0.9651209115982056
+                        },
+                        "Fatura No": {
+                            "deger": "5E71846",
+                            "guven": 0.9651209115982056
+                        },
+                        "Eşya Kodu": {
+                            "deger": "52010090 00 19",
+                            "guven": 0.9999921321868896
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                                "guven": 0.9750958681106567
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                                "guven": 0.9947631359100342
+                            },
+                            {
+                                "deger": "Dulkadiroglu Kahramanmaraş",
+                                "guven": 0.9882670640945435
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "8 KONTEYNER 158,924.60 KILOGRAM",
+                                "guven": 0.9834563732147217
+                            },
+                            {
+                                "deger": "Markasi:. Numarasi:.*KONTEYNER NO EKLI LISTE",
+                                "guven": 0.9786632061004639
+                            },
+                            {
+                                "deger": "Ticari tnm:PAMUK",
+                                "guven": 0.9999520778656006
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "STAPLE COTTON COOPERATIVE ASSOCIATION",
+                                "guven": 0.9927366375923157
+                            },
+                            {
+                                "deger": "214 WEST MARKET ST. P.O BOX 547 GREENWOOD, MS 38935",
+                                "guven": 0.9991641044616699
+                            },
+                            {
+                                "deger": "-0547",
+                                "guven": 0.9999942779541016
+                            },
+                            {
+                                "deger": "U.S.A 400",
+                                "guven": 0.9999125599861145
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                                "guven": 0.9809934496879578
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                                "guven": 0.9999140501022339
+                            },
+                            {
+                                "deger": "Dulkadiroglu Kahramanmaraş 052",
+                                "guven": 0.9872176051139832
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "704",
+                            "guven": 0.9999992251396179
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "BÍRLESİK DEVLETLER",
+                            "guven": 0.9538361430168152
+                        },
+                        "Teslim Şekli": {
+                            "deger": "CIF",
+                            "guven": 0.9998541474342346
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "USD",
+                            "guven": 0.9999926686286926
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "İSKENDERUN GÜMRÜK MÜDÜ",
+                            "guven": 0.9829431772232056
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "159,713.50",
+                            "guven": 0.9999885559082031
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "158,924.60",
+                            "guven": 0.9999970197677612
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "273,354.77",
+                            "guven": 0.9999842643737793
+                        },
+                        "Rejim": {
+                            "deger": "40 00",
+                            "guven": 0.9999788999557495
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "dosya": "(7).pdf",
+            "beyanname_no": "26310100IM00015807",
+            "yeni_taban_adi": "26310100IM00015807",
+            "arsiv_dosyasi": "26310100IM00015807.pdf",
+            "ocr_dosyasi": "26310100IM00015807_ocr.json",
+            "ayiklanan_dosyasi": "26310100IM00015807_ayiklanan.json",
+            "sonuc": [
+                {
+                    "sayfa": 1,
+                    "alanlar": {
+                        "Beyanname No": {
+                            "deger": "26310100IM00015807",
+                            "guven": 0.9998860955238342
+                        },
+                        "Beyanname Tarihi": {
+                            "deger": "22/07/2026",
+                            "guven": 0.9999970197677612
+                        },
+                        "Ödeme Koşulu": {
+                            "deger": "MAL MUKABİLİ",
+                            "guven": 0.9359233379364014
+                        },
+                        "Konşimento": {
+                            "deger": "COEU9020919070",
+                            "guven": 0.9849323034286499
+                        },
+                        "Fatura No": {
+                            "deger": "2064039281",
+                            "guven": 0.9849323034286499
+                        },
+                        "Eşya Kodu": {
+                            "deger": "55041000 00 11",
+                            "guven": 0.9999855160713196
+                        },
+                        "Beyan Sahibi / Temsilcisi": [
+                            {
+                                "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                                "guven": 0.9750958681106567
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                                "guven": 0.9947631359100342
+                            },
+                            {
+                                "deger": "Dulkadiroglu Kahramanmaraş",
+                                "guven": 0.9882670640945435
+                            }
+                        ],
+                        "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                            {
+                                "deger": "5 KONTEYNER 103,114.78 KILOGRAM",
+                                "guven": 0.9811751842498779
+                            },
+                            {
+                                "deger": "Markasi:. Numarasi:.*KONTEYNER NO EKLI LISTE",
+                                "guven": 0.9642391204833984
+                            },
+                            {
+                                "deger": "Ticari tnm:LYOCELL BRIGHT RAWWHITE",
+                                "guven": 0.9824981689453125
+                            }
+                        ],
+                        "Gönderici / İhracatçı": [
+                            {
+                                "deger": "LENZING FIBERS GMBH",
+                                "guven": 0.9999536275863647
+                            },
+                            {
+                                "deger": "INDUSTRIEGELAENDE 1 7561 HEILIGENKREUZ,",
+                                "guven": 0.9997668266296387
+                            },
+                            {
+                                "deger": "AVUSTURYA 038",
+                                "guven": 0.9999704360961914
+                            }
+                        ],
+                        "Alıcı": [
+                            {
+                                "deger": "Kipaş Mensucat İşletmeleri A.S.",
+                                "guven": 0.9809934496879578
+                            },
+                            {
+                                "deger": "Karacasu Karaziyaret Mah. Fatih Sultan Mehmet Cad.no1/a",
+                                "guven": 0.9999232292175293
+                            },
+                            {
+                                "deger": "Dulkadiroglu Kahramanmaraş 052",
+                                "guven": 0.988297164440155
+                            }
+                        ],
+                        "Kap Adedi": {
+                            "deger": "330",
+                            "guven": 0.9999983906745911
+                        },
+                        "Çıkış / İhracat Ülkesi": {
+                            "deger": "SLOVENYA",
+                            "guven": 0.9999836087226868
+                        },
+                        "Teslim Şekli": {
+                            "deger": "CIF",
+                            "guven": 0.9998541474342346
+                        },
+                        "Döviz ve Toplam Fatura Bedeli": {
+                            "deger": "EUR",
+                            "guven": 0.9999752044677734
+                        },
+                        "Çıkış Gümrük İdaresi": {
+                            "deger": "İSKENDERUN GÜMRÜK MÜDÜ",
+                            "guven": 0.9829431772232056
+                        },
+                        "Brüt Ağırlık (kg)": {
+                            "deger": "100,650.40",
+                            "guven": 0.9999914169311523
+                        },
+                        "Net Ağırlık (kg)": {
+                            "deger": "100,320.40",
+                            "guven": 0.999996542930603
+                        },
+                        "İstatistiki Kıymet": {
+                            "deger": "402,601.61",
+                            "guven": 0.9999935030937195
+                        },
+                        "Rejim": {
+                            "deger": "40 00",
+                            "guven": 0.9999788999557495
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "hatalar": []
+}

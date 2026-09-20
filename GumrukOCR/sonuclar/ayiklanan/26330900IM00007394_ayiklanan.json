@@ -1,0 +1,120 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26330900IM00007394",
+                "guven": 0.9995970129966736
+            },
+            "Beyanname Tarihi": {
+                "deger": "25/08/2026",
+                "guven": 0.9999979734420776
+            },
+            "Ödeme Koşulu": {
+                "deger": "PESIN",
+                "guven": 0.9386932253837585
+            },
+            "Konşimento": null,
+            "Fatura No": {
+                "deger": "50225-K13052MA7447",
+                "guven": 0.9974324107170105
+            },
+            "Eşya Kodu": {
+                "deger": "69022099 90 19",
+                "guven": 0.9999851584434509
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "ÖNDER GÜMRÜK MÜŞAVİRLİK HİZMETLERİ LTD. STİ.",
+                    "guven": 0.9279810190200806
+                },
+                {
+                    "deger": "YENI MH INÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                    "guven": 0.9690455198287964
+                },
+                {
+                    "deger": "33050 AKDENIZ MERSIN",
+                    "guven": 0.96319979429245
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "1 KAP 192.00 ADET(UNIT)",
+                    "guven": 0.9988592267036438
+                },
+                {
+                    "deger": "Ticari tnm:ramp body(bek gaza yakma taşi)tekstil makinesi yedek aksamı",
+                    "guven": 0.9723439812660217
+                },
+                {
+                    "deger": "Tarife tnm:",
+                    "guven": 0.9992780685424805
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "OSTHOFF-SENGE GMBH&CO.KG",
+                    "guven": 0.9811556935310364
+                },
+                {
+                    "deger": "POSTFACH 110465 D42304 WUPPERTAL",
+                    "guven": 0.9995174407958984
+                },
+                {
+                    "deger": "ESSENER STR.62 004",
+                    "guven": 0.9823594689369202
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "KİPAŞ MENSUCAT İŞLETMELERİ A.S.",
+                    "guven": 0.8882522583007812
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                    "guven": 0.9957563877105713
+                },
+                {
+                    "deger": "DULKADIROGLU/K.MARAS 052",
+                    "guven": 0.9528000950813293
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "1",
+                "guven": 0.9999740123748779
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "ALMANYA",
+                "guven": 0.9999824166297913
+            },
+            "Teslim Şekli": {
+                "deger": "EXW",
+                "guven": 0.9997951984405518
+            },
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "EUR",
+                "guven": 0.999967098236084
+            },
+            "Çıkış Gümrük İdaresi": {
+                "deger": "ADANA GÜMRÜK MÜDÜRLÜG",
+                "guven": 0.9992698431015015
+            },
+            "Brüt Ağırlık (kg)": {
+                "deger": "171.98",
+                "guven": 0.999512255191803
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "161.17",
+                "guven": 0.9999887943267822
+            },
+            "İstatistiki Kıymet": {
+                "deger": "14,991.48",
+                "guven": 0.9999656677246094
+            },
+            "Rejim": {
+                "deger": "40 71",
+                "guven": 0.9999944567680359
+            }
+        }
+    }
+]

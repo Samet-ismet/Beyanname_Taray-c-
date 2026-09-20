@@ -1,0 +1,144 @@
+[
+    {
+        "sayfa": 1,
+        "alanlar": {
+            "Beyanname No": {
+                "deger": "26440200IM00001858",
+                "guven": 0.9998602271080017
+            },
+            "Beyanname Tarihi": {
+                "deger": "11/08/2026",
+                "guven": 0.9999982118606567
+            },
+            "Ödeme Koşulu": {
+                "deger": "MAL MUKABİLİ",
+                "guven": 0.9152620434761047
+            },
+            "Konşimento": null,
+            "Fatura No": {
+                "deger": "7624573690",
+                "guven": 0.9960843324661255
+            },
+            "Eşya Kodu": {
+                "deger": "55031100 00 00",
+                "guven": 0.9999887347221375
+            },
+            "Beyan Sahibi / Temsilcisi": [
+                {
+                    "deger": "ÖNDER GÜMRÜK MÜŞAVİRLİK HİZMETLERİ LTD. STİ.",
+                    "guven": 0.9373428225517273
+                },
+                {
+                    "deger": "YENÍ MH İNÖNÜ BULVARI UMAT PLAZANO:54 KAT:11 DAIR",
+                    "guven": 0.9591701030731201
+                },
+                {
+                    "deger": "33050 AKDENIZ MERSIN",
+                    "guven": 0.9371968507766724
+                }
+            ],
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": [
+                {
+                    "deger": "44 KAP 10,129.50 KILOGRAM",
+                    "guven": 0.9903696179389954
+                },
+                {
+                    "deger": "Ticari tnm:sentetik elyaf (aramidlerden) - nomex brand staple",
+                    "guven": 0.9985008239746094
+                },
+                {
+                    "deger": "Tarife tnm:",
+                    "guven": 0.9998461008071899
+                }
+            ],
+            "Gönderici / İhracatçı": [
+                {
+                    "deger": "ARROW SWITZERLAND SARL",
+                    "guven": 0.9999397397041321
+                },
+                {
+                    "deger": "154 ROUTE DU NANT-DAVRIL 1217DUPONT",
+                    "guven": 0.9764026999473572
+                },
+                {
+                    "deger": "SWITZERLAND 039",
+                    "guven": 0.9999483823776245
+                }
+            ],
+            "Alıcı": [
+                {
+                    "deger": "KİPAŞ MENSUCAT İŞLETMELERİ A.Ş.",
+                    "guven": 0.8983889222145081
+                },
+                {
+                    "deger": "Karacasu Karaziyaret Mah. F.sultanMehmet cad.No: 1/A",
+                    "guven": 0.9952423572540283
+                },
+                {
+                    "deger": "DULKADIROGLU/K.MARAS 052",
+                    "guven": 0.9551112055778503
+                }
+            ],
+            "Kap Adedi": {
+                "deger": "44",
+                "guven": 0.9999978542327881
+            },
+            "Çıkış / İhracat Ülkesi": {
+                "deger": "BELÇIKA",
+                "guven": 0.965848445892334
+            },
+            "Teslim Şekli": {
+                "deger": "CPT",
+                "guven": 0.9999961256980896
+            },
+            "Döviz ve Toplam Fatura Bedeli": {
+                "deger": "USD",
+                "guven": 0.9999878406524658
+            },
+            "Çıkış Gümrük İdaresi": {
+                "deger": "KAPIKULE GÜMRÜK MÜDÜRLÜ.",
+                "guven": 0.9743985533714294
+            },
+            "Brüt Ağırlık (kg)": {
+                "deger": "10,627.10",
+                "guven": 0.9832756519317627
+            },
+            "Net Ağırlık (kg)": {
+                "deger": "10,129.50",
+                "guven": 0.9999840259552002
+            },
+            "İstatistiki Kıymet": {
+                "deger": "202,590.00",
+                "guven": 0.9897651672363281
+            },
+            "Rejim": {
+                "deger": "40 00",
+                "guven": 0.9999938607215881
+            }
+        }
+    },
+    {
+        "sayfa": 2,
+        "alanlar": {
+            "Beyanname No": null,
+            "Beyanname Tarihi": null,
+            "Ödeme Koşulu": null,
+            "Konşimento": null,
+            "Fatura No": null,
+            "Eşya Kodu": null,
+            "Beyan Sahibi / Temsilcisi": null,
+            "Kapların marka ve numaraları - konteyner no(lar)ı - adet ve cinsleri": null,
+            "Gönderici / İhracatçı": null,
+            "Alıcı": null,
+            "Kap Adedi": null,
+            "Çıkış / İhracat Ülkesi": null,
+            "Teslim Şekli": null,
+            "Döviz ve Toplam Fatura Bedeli": null,
+            "Çıkış Gümrük İdaresi": null,
+            "Brüt Ağırlık (kg)": null,
+            "Net Ağırlık (kg)": null,
+            "İstatistiki Kıymet": null,
+            "Rejim": null
+        }
+    }
+]
